@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;StringTokenizer.StringTokenizer&apos; to &apos;AulaTokenizer&apos;&#x0D;&#x0A;- Original project: &apos;StringTokenizer&apos;&#x0D;&#x0A;- Original element: &apos;StringTokenizer.StringTokenizer&apos;&#x0D;&#x0A;- Renamed element: &apos;StringTokenizer.AulaTokenizer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StringTokenizer&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;StringTokenizer{StringTokenizer.java[StringTokenizer" matchStrategy="1" name="AulaTokenizer" qualified="false" references="true" similarDeclarations="false" stamp="1645612456824" textual="false" version="1.0"/>
+</session>
